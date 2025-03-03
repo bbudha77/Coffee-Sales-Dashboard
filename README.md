@@ -4,7 +4,7 @@
 
 This project analyzes **coffee shop sales data** using **Power Query** in Excel for data transformation and cleaning and pivot table for **various visualizations**. The dataset includes sales details from different store locations, revenue trends, and monthly performance analysis.
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Coffee-Sales-Dashboard/blob/1be31bf0a007d40b77752c240581b7dc1399a6ef/Screenshot%202025-03-04%20084637.png)
 
 ## Data Cleaning & Transformation
 
