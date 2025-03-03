@@ -35,7 +35,7 @@ At the top of the dashboard, three key visuals display:
 
 ### 1️⃣ Donut Chart: Sales Distribution Across Locations
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Coffee-Sales-Dashboard/blob/0e6d42b3d5efa0fbc29a1c521cbf64630c864556/Screenshot%202025-03-04%20084733.png)
 
 - Represents the contribution of each store location to the total revenue.
 - Helps in identifying the best-performing and lowest-performing stores.
