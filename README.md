@@ -42,7 +42,7 @@ At the top of the dashboard, three key visuals display:
 
 ### 2️⃣ Line Graph: Sales Trends Over Months
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Coffee-Sales-Dashboard/blob/2d30a7b421dc3832781a82de8ade1bc8428d256a/Screenshot%202025-03-04%20084742.png)
 
 - Displays sales fluctuations over time.
 - Sales saw a **dip in February** but gradually increased as the months progressed, indicating a positive trend in revenue after the decline.
