@@ -51,7 +51,7 @@ At the top of the dashboard, three key visuals display:
 
 ### 3️⃣ Sales Table: Detailed Sales Breakdown
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Coffee-Sales-Dashboard/blob/a84489b095508c314a63bd0de598884ab944c22d/Screenshot%202025-03-04%20084822.png)
 
 - Contains sales data categorized by product type, location, and total revenue.
 - Provides a structured format to analyze performance across different store locations.
