@@ -28,7 +28,7 @@ At the top of the dashboard, three key visuals display:
 
 **Slicers for Filtering Data**:
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Coffee-Sales-Dashboard/blob/0cf392f8764307bbd04f7f5c0b9f0a3664f21785/Screenshot%202025-03-04%20084718.png)
 
 - **Location-Based Filtering** – Allows selection of individual store locations.
 - **Time-Based Filtering** – Enables filtering sales data by months.
