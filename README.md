@@ -58,7 +58,7 @@ At the top of the dashboard, three key visuals display:
 
 ### 4️⃣ Bar Graph: Monthly Sales Comparison Across Locations
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Coffee-Sales-Dashboard/blob/4f8a623a6087965b68254e6c38bd078dad53c19c/Screenshot%202025-03-04%20084806.png)
 
 - Compares sales for different locations on a month-to-month basis.
 - Helps identify variations in performance and trends in customer demand.
