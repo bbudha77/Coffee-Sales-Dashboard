@@ -21,7 +21,7 @@ The Excel dashboard includes **four key analyses** along with key sales metrics 
 
 At the top of the dashboard, three key visuals display:
 
-![image alt]()
+![image alt](https://github.com/bbudha77/Coffee-Sales-Dashboard/blob/6498bf8f18ccec8f027fb03ed8fc3a415ab166b9/Screenshot%202025-03-04%20084704.png)
 
 - **Total Sales Revenue** – Sum of all sales across locations.
 - **Location-wise Sales Summary** – Displays total sales for three store locations (Astoria, Hell's Kitchen, Lower Manhattan).
